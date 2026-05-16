@@ -1,5 +1,5 @@
-# Deep Analysis of FANTOM CAGE Data Reveals Hierarchical Patterns of TSS
-# Co-deployment Hubs and Their Disruption in Cancers
+# Deep analysis of FANTOM CAGE data reveals hierarchical patterns of TSS
+# co-deployment hubs and their disruption in cancers
 
 > Meduri Ruthwick, Aditi Lakshmi Satish, Umashankar Singh*
 >
