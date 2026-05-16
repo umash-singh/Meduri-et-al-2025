@@ -30,6 +30,7 @@ YY1 and CTCF binding sites and are associated with transcription factor-coding
 genes. Together, our findings establish that TSS co-deployment covariance is
 sensitive to transcriptional resource cost, and that parsimonic co-deployment
 depends on proximal TSSs in non-cancers — a mechanism grossly disrupted in cancers.
+
 ---
 
 ## Data Availability
