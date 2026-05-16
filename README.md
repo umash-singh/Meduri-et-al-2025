@@ -49,6 +49,13 @@ depends on proximal TSSs in non-cancers — a mechanism grossly disrupted in can
 > reasonable request.
 
 ---
+## Implementation
+
+All analyses are implemented in Python and organized as Jupyter notebooks for
+reproducibility and transparency. The notebooks are ordered to follow the
+analytical workflow described in the manuscript, from data preprocessing and analysis.
+
+---
 
 ## Keywords
 
